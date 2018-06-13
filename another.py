@@ -8,3 +8,5 @@ def try_function():
 print(try_function())
 
 print(try_function())
+
+print(try_function())
